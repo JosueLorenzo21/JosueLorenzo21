@@ -2,12 +2,23 @@
 
 ***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+Hi there! I'm a tech enthusiast passionate about cloud computing, DevOps, and automation. Also a Computer Systems Engineer. My main focus is on Cloud Computing (AWS, Azure, Terraform, Git, etc) as I work towards transitioning into a cloud engineering role. Currently, I'm studying for the AZ-104 certification and exploring hands-on projects to gain practical experience.
+
+🔹 Professional Background
+Currently i've been working as a Technical Support Specialist for 3 years. I have little experience working with Azure and 365 in my current role, and I’m constantly expanding my knowledge in cloud technologies.
+
+🔹 Learning & Growth
+I'm a strong believer in continuous learning. I have completed cloud-related certifications like Microsoft AZ-900, and I'm currently diving deeper into cloud security, infrastructure as code (IaC), and automation. I also enjoy working on hands-on projects within the AWS Free Tier to apply my skills in real-world scenarios.
+
+🔹 Tech Interests
+
+☁ Cloud Computing (AWS & Azure)
+🔧 Infrastructure as Code (Terraform, GitHub Actions)
+🛠 DevOps & Automation
+🤖 Exploring AI & Machine Learning in the Cloud
+
+🔹 Personal Growth
+Aside from tech, I believe in discipline, consistency, and self-improvement. I approach challenges with a problem-solving mindset, and I'm always looking for ways to improve, both professionally and personally.
+
+🚀 Always open to collaboration and new learning opportunities!
+- 📫 Reach out to me at: <a href="josuelorenzo53@gmail.com">josuelorenzo53@gmail.com</a>
