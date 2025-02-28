@@ -31,3 +31,12 @@ Hi there! I'm a tech enthusiast passionate about cloud computing, DevOps, and au
 <a href= "https://www.linkedin.com/in/josuelorenzo/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
      </a>
+
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=JosueLorenzo21&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JosueLorenzo21)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=JosueLorenzo21&theme=material-palenight)](https://github.com/JosueLorenzo21)
+</div>
+
