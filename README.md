@@ -30,3 +30,4 @@ Hi there! I'm a tech enthusiast passionate about cloud computing, DevOps, and au
 
 <a href= "https://www.linkedin.com/in/josuelorenzo/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+     </a>
