@@ -14,7 +14,7 @@ Hi there! I'm a tech enthusiast passionate about cloud computing, DevOps, and au
 🔹 Tech Interests
 
   ☁ Cloud Computing (AWS & Azure)
- 🔧 Infrastructure as Code (Terraform, GitHub Actions)
+ 🔧 Infrastructure as Code (Terraform, GitHub, Docker)
   🛠 DevOps & Automation
  🤖 Exploring AI & Machine Learning in the Cloud
 
